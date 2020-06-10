@@ -29,6 +29,6 @@ Also, we might have several small activities in front of the laptop like,
 - Typing on the keyboard or not moving
 - Moving items (i.e., grab a coffee cup and drink, switch the placement of your notebook to somewhere else.)
 
-![](typing_or_moving.GIF)
+![](domo/typing_or_moving.GIF)
 
 
