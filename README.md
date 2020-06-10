@@ -1,5 +1,15 @@
 # phyphox_activity-detection
 
+
+In summary, given all the issues we found with current poor posture intervention tools and through a pilot study, we designed an interface that could automatically zoom in and out according to the page sizes on the screen based on two scenarios. 
+Our evaluation demonstrated the effectiveness of our detection and provided insights into other possible scenarios as well.
+
+In our experiments, we utilize angular velocities measured by the gyroscope in phyphox, due to the following aspects:
+
+1) The gyroscope is more sensitive and more accurate than the accelerometer, especially when wrist rotation and lean-in posture are related to rotation rate;
+
+2) Accelerations suffer from jitters and local minima, whereas angular velocities are smooth.
+
 - Scenario 1: The user’ s hands are occupied with other tasks and he/she intends to zoom the screen using gestures.
 (i.e., cooking from a written recipe)
 
