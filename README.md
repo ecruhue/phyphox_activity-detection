@@ -30,4 +30,5 @@ Also, we might have several small activities in front of the laptop like,
 
 ![](rotation.GIF)
 ![](typing or moving items.GIF)
-![](lean-in.GIF)
+
+![demo](lean-in.GIF)
