@@ -23,7 +23,10 @@ without noticing his/her bad posture (too close to the
 screen).
 
 Solution: The system detect the lean-in posture and zoom in the screen to force the user back to origin.
-![](lean-in.GIF)
+
+![](demo/lean-in.GIF)
+
+
 Also, we might have several small activities in front of the laptop like, 
 
 - Typing on the keyboard or not moving
