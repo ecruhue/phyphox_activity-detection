@@ -24,7 +24,7 @@ screen).
 
 Solution: The system detect the lean-in posture and zoom in the screen to force the user back to origin.
 
-![](demo/lean-in.GIF)
+![](demo/leanin.GIF)
 
 
 Also, we might have several small activities in front of the laptop like, 
